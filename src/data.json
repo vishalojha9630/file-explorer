@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "children": ["2", "3"],
+      "type": "folder",
+      "name": "Vishal"
+    },
+    {
+      "id": "2",
+      "type": "file",
+      "name": "hello.js"
+    },
+
+    {
+      "id": "3",
+      "type": "file",
+      "name": "test.txt"
+    }
+  ]
+  
